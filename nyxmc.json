@@ -1,0 +1,37 @@
+{
+  "id": "nyxmc",
+  "name": "\u00A79\u00A7lNyxMc!",
+  "website": "https://discord.gg",
+  "store": "https://discord.gg",
+  "description": "ꜱɪᴍᴘʟᴇ ʜᴀʀᴅᴄᴏʀᴇ ꜱᴜʀᴠɪᴠᴀʟ",
+  "addresses": [
+    "mc.nyx-mc.net"
+  ],
+  "primaryAddress": "your-server-ip.net",
+  "minecraftVersions": [
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.1",
+  "primaryColor": "#5555FF",
+  "secondaryColor": "#55FF55",
+  "primaryLanguage": "en",
+  "languages": [
+    "en"
+  ],
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "compliance": {
+    "privacyPolicy": "https://discord.gg",
+    "termsOfService": "https://discord.gg",
+    "rules": "https://discord.gg"
+  },
+  "socials": {
+    "discord": "https://discord.gg"
+  },
+  "crossplay": false
+}
